@@ -1,8 +1,8 @@
 # Personal Info
 - Name: HydroGames / Goodbritt14 / Britt
 - Age: 18
-- Programming Languages Known: PHP, Python, Javascript, HTML.
-- Programming Languages Learning: Java, Go.
+- Programming Languages Known: `PHP`, `Python`, `Javascript`, `HTML`.
+- Programming Languages Learning: `Java`.
 
 # Contacts
 - Discord: `Goodbritt14#5890`
