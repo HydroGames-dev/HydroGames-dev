@@ -1,2 +1,1 @@
-# Goodbritt14
-Github Profile
+![Stats](https://github-readme-stats.vercel.app/api?username=HydroGames-dev)
