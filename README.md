@@ -12,6 +12,6 @@
 - Twitter: [@HydroGamesPE](https://twitter.com/HydrogamesPE?s=09)
 
 # GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=HydroGames-dev&show_icons=true&custom_title=Goodbritt14's Stats&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=HydroGames-dev&show_icons=true&theme=radical)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HydroGames-dev)
