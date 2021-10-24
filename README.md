@@ -1,11 +1,11 @@
 # Personal Info
-- Name: HydroGames / Goodbritt14 / Britt
-- Age: 18
-- Programming Languages Known: `PHP`, `Python`, `Javascript`, `HTML`.
-- Programming Languages Learning: `Java`.
+- Name: HydroGames / GoodBritt14 / Britty
+- Age: 19
+- Programming Languages Known: `PHP`, `Python`, `Javascript`, `HTML`, `C++`.
+- Programming Languages Learning: `Java`, `Kotlin`.
 
 # Contacts
-- Discord: `Goodbritt14#5890`
+- Discord: `GoodBritt14#5890`
 - Discord Server: `None`
 - Team Bixby Discord Server: [TeamBixby](https://discord.gg/gTw5VycnDU)
 - YouTube: [Goodbritt14](https://youtube.com/c/ITZMinecrafterPLAYZ)
