@@ -1,5 +1,5 @@
 # Personal Info
-- Name: HydroGames (Org) / AB (IRL Name in Short) / Britt (Internet Name)
+- Name: HydroGames (Org) / AB (IRL Name in Short) / Britty(z) (Internet Name)
 - Age: 17
 - Programming Languages Known: `PHP`, `Python`, `Javascript`, `HTML`, `C++`.
 - Programming Languages Learning: `Java`, `Kotlin`.
