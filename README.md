@@ -1,14 +1,15 @@
 # Personal Info
-- Name: HydroGames (Org) / AB (IRL Name in Short) / Britt(z)/Britty (Internet Name)
-- Age: Unknown - 20+
-- Programming Languages Known: `PHP`, `Python`, `Javascript`, `C#`, `C++`, `Java`, `SQL`, `HTML`, `CSS`.
-- Programming Languages Learning: `None ATM`.
+- Name: HydroGames (Org) / HydroGamesDev (Coder Name) / Britt/Britty (Internet Name)
+- Age: Unknown
+- Programming Languages Studied : `PHP`, `Python`, `Javascript`, `C#`, `C++`, `Java`, `SQL`, `HTML`, `CSS`.
 
 # Contacts
-- Discord: `GoodBritt14#0` | [Britty](https://discord.com/users/Goodbritt14)
-- Discord Server: `None`
-- YouTube: [Britt](https://youtube.com/c/ITZMinecrafterPLAYZ)
+- Discord: `Goodbritt14#0` | [Britty](https://discord.com/users/Goodbritt14)
+- YouTube: [HydroGames](https://youtube.com/c/ITZMinecrafterPLAYZ)
 - Twitter: [@HydroGamesPE](https://twitter.com/HydrogamesPE?s=09)
+
+# Public Projects
+- `None` (Every Project i make is either Private or Archived)
 
 # GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=HydroGames-dev&show_icons=true&theme=radical)
