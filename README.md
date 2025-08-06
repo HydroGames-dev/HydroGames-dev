@@ -1,5 +1,5 @@
 # Personal Info
-- Name: HydroGames/HydroGamesNetwork (Org) / HydroGamesDev/HydroGD (Code/Workplace Name) / Britt/Britty (Internet Name)
+- Name: HydroGames/HydroGames Studios (Org) / HydroGamesDev (Code/Workplace Name) / Britt/Britty (Internet Name)
 - Age: `Unknown`
 
 # Contacts
